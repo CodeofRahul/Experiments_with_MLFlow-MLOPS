@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/931224262111646654/1ee8b86cf0834b059f853103af0c2296/artifacts
+end_time: 1735892661235
+entry_point_name: ''
+experiment_id: '931224262111646654'
+lifecycle_stage: active
+run_id: 1ee8b86cf0834b059f853103af0c2296
+run_name: clumsy-hawk-517
+run_uuid: 1ee8b86cf0834b059f853103af0c2296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735892660379
+status: 3
+tags: []
+user_id: lenovo

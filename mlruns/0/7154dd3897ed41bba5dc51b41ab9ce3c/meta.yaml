@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7154dd3897ed41bba5dc51b41ab9ce3c/artifacts
+end_time: 1735891686023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7154dd3897ed41bba5dc51b41ab9ce3c
+run_name: resilient-donkey-846
+run_uuid: 7154dd3897ed41bba5dc51b41ab9ce3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735891683820
+status: 3
+tags: []
+user_id: lenovo

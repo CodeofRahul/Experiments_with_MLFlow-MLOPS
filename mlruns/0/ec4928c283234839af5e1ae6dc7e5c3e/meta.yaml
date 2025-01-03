@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ec4928c283234839af5e1ae6dc7e5c3e/artifacts
+end_time: 1735889852096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec4928c283234839af5e1ae6dc7e5c3e
+run_name: calm-duck-871
+run_uuid: ec4928c283234839af5e1ae6dc7e5c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735889851978
+status: 3
+tags: []
+user_id: lenovo

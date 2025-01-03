@@ -51,7 +51,7 @@ with mlflow.start_run():
     mlflow.log_artifact(__file__)               # log the python script itself
 
     # tags
-    mlflow.set_tags({"Author": "Rahul", "Project": "Wine Classification"})
+    mlflow.set_tagg({"Author": "Rahul", "Project": "Wine Classification"})
 
     # Log the model
     mlflow.sklearn.log_model(rf, "Random-Forest-Model")
