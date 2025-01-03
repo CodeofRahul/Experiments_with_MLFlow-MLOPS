@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/b90735ea63c54304ba4786c50602d85a/artifacts
+end_time: 1735901366393
+entry_point_name: ''
+experiment_id: '992677171405071033'
+lifecycle_stage: active
+run_id: b90735ea63c54304ba4786c50602d85a
+run_name: intelligent-bat-403
+run_uuid: b90735ea63c54304ba4786c50602d85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735901366309
+status: 3
+tags: []
+user_id: lenovo

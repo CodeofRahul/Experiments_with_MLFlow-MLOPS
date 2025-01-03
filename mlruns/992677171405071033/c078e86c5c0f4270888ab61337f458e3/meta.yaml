@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/c078e86c5c0f4270888ab61337f458e3/artifacts
+end_time: 1735901365337
+entry_point_name: ''
+experiment_id: '992677171405071033'
+lifecycle_stage: active
+run_id: c078e86c5c0f4270888ab61337f458e3
+run_name: redolent-mink-679
+run_uuid: c078e86c5c0f4270888ab61337f458e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735901365249
+status: 3
+tags: []
+user_id: lenovo

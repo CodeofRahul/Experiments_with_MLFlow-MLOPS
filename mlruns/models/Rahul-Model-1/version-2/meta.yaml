@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735903127572
+current_stage: None
+description: ''
+last_updated_timestamp: 1735903127572
+name: Rahul-Model-1
+run_id: d4bb390024e7435ebf2709784d4f74c1
+run_link: ''
+source: mlflow-artifacts:/931224262111646654/d4bb390024e7435ebf2709784d4f74c1/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/931224262111646654/d4bb390024e7435ebf2709784d4f74c1/artifacts/model
+user_id: null
+version: 2

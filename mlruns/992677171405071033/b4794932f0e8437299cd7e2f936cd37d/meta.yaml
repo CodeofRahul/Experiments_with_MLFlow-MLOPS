@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/b4794932f0e8437299cd7e2f936cd37d/artifacts
+end_time: 1735901365453
+entry_point_name: ''
+experiment_id: '992677171405071033'
+lifecycle_stage: active
+run_id: b4794932f0e8437299cd7e2f936cd37d
+run_name: spiffy-hog-184
+run_uuid: b4794932f0e8437299cd7e2f936cd37d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735901365358
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/1263309d31904042a45e7ddb30241549/artifacts
+end_time: 1735901366043
+entry_point_name: ''
+experiment_id: '992677171405071033'
+lifecycle_stage: active
+run_id: 1263309d31904042a45e7ddb30241549
+run_name: skittish-mink-297
+run_uuid: 1263309d31904042a45e7ddb30241549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735901365948
+status: 3
+tags: []
+user_id: lenovo

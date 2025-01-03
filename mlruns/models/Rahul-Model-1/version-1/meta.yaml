@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735902694244
+current_stage: None
+description: ''
+last_updated_timestamp: 1735902694244
+name: Rahul-Model-1
+run_id: dd34d38e5f9f411ca962348bf6c8fb41
+run_link: ''
+source: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/dd34d38e5f9f411ca962348bf6c8fb41/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/dd34d38e5f9f411ca962348bf6c8fb41/artifacts/random_forest
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPS/Experiments_with_MLFlow-MLOPS/mlruns/992677171405071033/39d246859c1b49fcbd68123efbe7a8a1/artifacts
+end_time: 1735901365230
+entry_point_name: ''
+experiment_id: '992677171405071033'
+lifecycle_stage: active
+run_id: 39d246859c1b49fcbd68123efbe7a8a1
+run_name: indecisive-toad-853
+run_uuid: 39d246859c1b49fcbd68123efbe7a8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735901365135
+status: 3
+tags: []
+user_id: lenovo
